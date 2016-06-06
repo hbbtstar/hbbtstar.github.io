@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Hbbtstar's Spot
 tagline:             'Tech tidbits'
 description:         'Sundry tech posts and stories'
-url:                 http://lanyon.getpoole.com
+url:                 https://hbbtstar.github.io
 baseurl:             ''
 paginate:            5
 gems: [jekyll-sitemap, jekyll-paginate]
