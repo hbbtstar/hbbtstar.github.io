@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Hbbtstar's Spot
@@ -11,7 +10,7 @@ description:         'Sundry tech posts and stories'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
-gems: [jekyll-sitemap]
+gems: [jekyll-sitemap, jekyll-paginate]
 # About/contact
 author:
   name:              Alexander Lourenco

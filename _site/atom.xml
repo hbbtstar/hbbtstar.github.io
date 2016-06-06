@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
+ <title>Hbbtstar's Spot</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2015-11-22T16:07:32+01:00</updated>
+ <updated>2016-06-06T11:35:55+02:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Alexander Lourenco</name>
+   <email>hbbtstar@gmail.com</email>
  </author>
 
  
