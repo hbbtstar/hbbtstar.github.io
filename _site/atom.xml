@@ -2,21 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Hbbtstar's Spot</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-06-06T11:35:55+02:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-02-26T00:43:55+01:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Alexander Lourenco</name>
-   <email>hbbtstar@gmail.com</email>
+   <email>alexander.lourenco@gmail.com</email>
  </author>
 
  
  <entry>
+   <title>Remembering the Unlucky Users</title>
+   <link href="http://localhost:4000/2016/02/26/remembering-the-unlucky-users/"/>
+   <updated>2016-02-26T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2016/02/26/remembering-the-unlucky-users</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>First Blog Post</title>
-   <link href="http://lanyon.getpoole.com/2015/11/15/first-post/"/>
+   <link href="http://localhost:4000/2015/11/15/first-post/"/>
    <updated>2015-11-15T00:00:00+01:00</updated>
-   <id>http://lanyon.getpoole.com/2015/11/15/first-post</id>
+   <id>http://localhost:4000/2015/11/15/first-post</id>
    <content type="html">&lt;h3 id=&quot;first-post&quot;&gt;First Post&lt;/h3&gt;
 
 &lt;p&gt;Got this blogging system working! Sweet. Now I can update everything!&lt;/p&gt;

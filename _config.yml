@@ -15,7 +15,7 @@ gems: [jekyll-sitemap, jekyll-paginate]
 author:
   name:              Alexander Lourenco
   url:               https://hbbtstar.github.io
-  email:             hbbtstar@gmail.com
+  email:             alexander.lourenco@gmail.com
 
 # Custom vars
 version:             1.0.0
