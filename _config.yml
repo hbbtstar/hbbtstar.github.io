@@ -10,7 +10,7 @@ description:         'Sundry tech posts and stories'
 url:                 https://hbbtstar.github.io
 baseurl:             ''
 paginate:            5
-gems: [jekyll-sitemap, jekyll-paginate]
+gems: [jekyll-sitemap, jekyll-paginate, jekyll-feed]
 # About/contact
 author:
   name:              Alexander Lourenco
